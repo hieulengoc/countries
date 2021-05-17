@@ -565,7 +565,7 @@ func (c CountryCode) String() string { //nolint:gocyclo
 	case 760:
 		return "Syrian Arab Republic"
 	case 158:
-		return "Taiwan (Province of China)"
+		return "Taiwan"
 	case 762:
 		return "Tajikistan"
 	case 834:
