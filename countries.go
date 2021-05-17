@@ -343,7 +343,7 @@ func (c CountryCode) String() string { //nolint:gocyclo
 	case 340:
 		return "Honduras"
 	case 344:
-		return "Hong Kong (Special Administrative Region of China)"
+		return "Hong Kong"
 	case 348:
 		return "Hungary"
 	case 352:
